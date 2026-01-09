@@ -1,0 +1,100 @@
+Sentence_ID,Text,Guna_Majority,vader_compound,vader_pos,vader_neg,vader_neu
+1,"I started going for walks after dinner instead of sitting on the couch, and I actually enjoy it.",Sattva,0.4939,0.158,0.0,0.842
+5,"I've been taking my medication regularly now, and I can feel the difference.",Rajas,0.0,0.0,0.0,1.0
+6,The main reason I want to change is for my kids. I want to be around to see them grow up.,Tamas,0.1531,0.12,0.0,0.88
+8,"I felt unheard and frustrated, which only worsened my physical discomfort.",Tamas,-0.8442,0.0,0.532,0.468
+9,I feel stuck in this emotional turmoil and can't seem to find a way out.,Tamas,-0.4404,0.088,0.249,0.663
+10,I would appreciate guidance on effective strategies for overcoming these obstacles and staying motivated throughout the process.,Rajas,0.7351,0.361,0.107,0.533
+11,"I've been tracking my food intake, and I realized I was eating way more than I thought.",Sattva,0.0,0.0,0.0,1.0
+12,I've noticed that my cravings are strongest in the afternoon around 3 o'clock.,Tamas,0.4404,0.195,0.0,0.805
+13,"It's been three months now since I last used, and I've been doing pretty well.",Sattva,0.6486,0.29,0.0,0.71
+15,"I've been journaling about my triggers, and it's helping me understand my patterns.",Rajas,0.296,0.155,0.0,0.845
+16,I want to understand why I'm feeling this way and find ways to regain control over my thoughts and emotions.,Sattva,0.2023,0.135,0.0,0.865
+18,Instant gratification seems much more appealing than focusing on long-term goals.,Rajas,0.3818,0.206,0.0,0.794
+19,I feel stuck. Like I want to move forward but something keeps holding me back.,Tamas,0.1027,0.177,0.091,0.732
+20,I would love to explore ways to overcome this barrier and build authentic connections with others.,Rajas,0.5537,0.212,0.082,0.706
+23,"When I'm around my old friends, it's really hard not to fall back into old habits.",Tamas,0.3415,0.165,0.09,0.745
+27,What's the point? I've tried to quit drinking before and it never works.,Tamas,0.0,0.0,0.0,1.0
+28,"She kept repeating the phrase, 'You'll never amount to anything,' over and over again.",Tamas,0.0,0.0,0.0,1.0
+30,"I keep making excuses for why I can't exercise, but deep down I know they're just excuses.",Sattva,0.0,0.0,0.0,1.0
+31,I don't really have a problem. I can stop whenever I want to.,Sattva,-0.5945,0.079,0.314,0.607
+32,"Last week I turned down a drink at a party, and honestly, it felt good.",Rajas,0.8225,0.417,0.0,0.583
+33,It's frightening to experience these dark moments.,Tamas,-0.4939,0.0,0.348,0.652
+38,I don't really see why I need to change. Things are fine the way they are.,Tamas,0.2023,0.107,0.0,0.893
+40,"I'm scared that if I quit, I won't know how to handle stress anymore.",Tamas,-0.6908,0.0,0.322,0.678
+41,My friends say I'm more fun when I drink. What if they don't like the sober me?,Tamas,0.6791,0.294,0.093,0.614
+43,Talking to others in the support group helped me realize I'm not alone in this.,Rajas,0.533,0.255,0.0,0.745
+44,I just don't know where to start.,Tamas,0.0,0.0,0.0,1.0
+46,"I'm worried that without alcohol, I won't be able to relax or have fun.",Tamas,0.6124,0.32,0.113,0.567
+47,I want to understand why these attacks are happening more frequently and learn techniques to manage them effectively.,Sattva,0.0772,0.19,0.131,0.679
+49,"I've replaced my evening beer with herbal tea, and honestly, it's not as bad as I thought.",Sattva,0.705,0.281,0.0,0.719
+50,Everyone in my family drinks. It's just what we do. I don't see it as a big deal.,Tamas,0.0,0.0,0.0,1.0
+52,Sometimes I think it would be easier to just give up and accept this is who I am.,Tamas,0.6597,0.252,0.0,0.748
+53,"I tried going to the gym, but I felt so out of place. Everyone there is already fit.",Tamas,0.5023,0.16,0.0,0.84
+54,"Negative thoughts constantly bombard my mind, telling me I'm not good enough.",Tamas,-0.7274,0.0,0.379,0.621
+56,"I met some new friends in my neighborhood who don't drink, and that's been really good for me.",Sattva,0.7425,0.282,0.0,0.718
+57,"Thoughts of doubt and low self-worth start to consume me, making it difficult to break free.",Tamas,-0.4215,0.147,0.317,0.536
+58,The constant battles with the insurance company have left me feeling helpless and drained.,Tamas,-0.765,0.077,0.413,0.51
+59,"My doctor told me my blood pressure is too high, and that was a wake-up call.",Rajas,-0.296,0.0,0.128,0.872
+60,I'm desperate to break free from this heaviness and rediscover joy in my life.,Rajas,0.7003,0.348,0.113,0.539
+61,"I've been using the breathing exercises you taught me, and it helps me get through the stressful moments.",Sattva,-0.1779,0.119,0.151,0.731
+62,I'd like to work on addressing this pattern and learning to face challenges head-on.,Sattva,0.4215,0.241,0.0,0.759
+63,I often wonder what the point of it all is.,Tamas,0.0,0.0,0.0,1.0
+65,"Stress seems to consume me, and I struggle to relax or enjoy activities I used to love.",Tamas,0.7351,0.376,0.186,0.438
+67,"Part of me wants to change, but another part of me is terrified of what that means.",Rajas,-0.7579,0.0,0.256,0.744
+68,"I've set a goal to walk 10,000 steps a day, and I've hit it every day this week.",Rajas,0.0,0.0,0.0,1.0
+70,I realized that drinking was my way of avoiding dealing with my problems.,Rajas,-0.6249,0.0,0.317,0.683
+71,It's isolating and frustrating to experience these emotions daily.,Tamas,-0.4404,0.0,0.266,0.734
+73,"I've been having intrusive thoughts about my past, and I can't seem to shake them off.",Tamas,0.1326,0.092,0.0,0.908
+74,"Even mundane tasks become overwhelming, and it feels as though a heavy cloud is constantly hanging over me.",Tamas,0.0,0.0,0.0,1.0
+75,"Each day feels like a struggle to get out of bed, and I constantly question my worth and purpose in life.",Tamas,0.2732,0.178,0.093,0.729
+78,I want to find healing from this trauma and reclaim control over my life.,Sattva,-0.4497,0.079,0.196,0.725
+80,I don't want to be one of those people who needs a drink to get through the day.,Sattva,-0.0572,0.0,0.067,0.933
+85,"I've started cooking at home instead of getting takeout, and it's been nice.",Sattva,0.4215,0.189,0.0,0.811
+86,"I want to believe I can change, but I've failed so many times before.",Rajas,-0.6486,0.065,0.253,0.682
+88,"I constantly feel overwhelmed, exhausted, and on edge.",Tamas,-0.3182,0.124,0.258,0.619
+89,"Quitting smoking is the hardest thing I've ever done, but I'm still trying.",Rajas,0.0,0.0,0.0,1.0
+92,I've been putting off making changes because I keep waiting for the perfect time.,Tamas,0.5719,0.222,0.0,0.778
+93,"I've been feeling increasingly isolated, and I can't seem to connect with my colleagues or build meaningful relationships.",Tamas,0.128,0.18,0.109,0.711
+94,"I've started meditating for ten minutes every morning, and it's made a difference.",Sattva,0.0,0.0,0.0,1.0
+95,How can I break this cycle and promote reconciliation among family members?,Sattva,0.3818,0.191,0.0,0.809
+96,I don't know if I have what it takes to actually make this change.,Tamas,0.0,0.0,0.0,1.0
+97,"I've been sober for two weeks, and I'm sleeping better than I have in years.",Sattva,0.4404,0.172,0.0,0.828
+98,I constantly worry about the future and catastrophize every situation.,Tamas,-0.4404,0.0,0.244,0.756
+100,I plan to focus on the present moment and practice mindfulness techniques to help me stay grounded and focused.,Sattva,0.6486,0.238,0.0,0.762
+102,"My thoughts often turn negative, and it's hard to find motivation or energy to do anything.",Tamas,-0.1531,0.208,0.236,0.556
+103,"I know all the reasons why I should change, but knowing isn't the same as doing.",Tamas,0.0,0.0,0.0,1.0
+104,"My wife keeps nagging me about my drinking, but she doesn't understand how hard my job is.",Tamas,-0.1043,0.079,0.101,0.82
+105,"I finally told my family about my struggles, and their support means everything.",Rajas,0.0516,0.167,0.154,0.679
+106,"I want to lose weight, but I just can't seem to stick to any diet.",Rajas,-0.1779,0.072,0.116,0.812
+108,"I don't know if I have the energy to put into making friends, especially when I've failed at it so many times before.",Tamas,0.1621,0.181,0.124,0.695
+109,The hardest part is the evenings when I'm alone and bored.,Tamas,-0.4767,0.0,0.313,0.687
+110,"I aspire to make our manual approachable, fostering a sense of comfort and ease.",Sattva,0.6124,0.294,0.0,0.706
+112,I don't want to get stuck in a routine where I'm only focused on caregiving and neglecting my own needs.,Sattva,-0.323,0.106,0.241,0.652
+113,The effort required to fix these issues feels insurmountable.,Tamas,0.0,0.0,0.0,1.0
+114,"I can't seem to find any meaning or motivation in my routine, and it's leaving me feeling lost and disconnected.",Tamas,0.1531,0.168,0.099,0.733
+115,I can't help but feel like I'm failing as a wife and mother when I can't provide him with a home-cooked meal.,Tamas,-0.427,0.115,0.215,0.671
+116,"Deep down, I feel absolutely empty. It's as if all emotions have been drained from me, leaving behind an overwhelming sense of nothingness.",Tamas,-0.5563,0.0,0.179,0.821
+119,Even getting out of bed requires an immense effort.,Tamas,0.0,0.0,0.0,1.0
+120,I can't help but worry about my partner and how they're doing.,Rajas,0.357,0.211,0.111,0.679
+122,I'm struggling to move on. It's been hard for me to let go of the relationship and accept that it's over.,Tamas,-0.1531,0.105,0.169,0.726
+123,"I constantly feel tired and drained, both physically and emotionally.",Tamas,-0.6597,0.0,0.403,0.597
+124,"I slipped up last weekend, but instead of giving up, I got back on track Monday.",Rajas,0.4767,0.171,0.0,0.829
+125,I hope to achieve a sense of calmness and control through this counseling session.,Rajas,0.6808,0.318,0.0,0.682
+127,I'm taking it one day at a time. That's all I can do.,Sattva,0.0,0.0,0.0,1.0
+128,"I know I should quit smoking, but honestly, I'm not sure I really want to.",Tamas,0.5341,0.29,0.12,0.59
+129,I don't think I'm ready to quit completely. Maybe I can just cut back.,Tamas,-0.4956,0.0,0.26,0.74
+133,I hope to gain a better understanding of why intimacy feels so scary for me and learn ways to overcome this fear.,Sattva,0.0859,0.27,0.231,0.499
+136,"I've cut down from a pack a day to just five cigarettes. That's progress, right?",Rajas,0.1779,0.156,0.117,0.726
+137,I feel like I'm losing control.,Tamas,-0.0258,0.275,0.286,0.44
+138,"I've always been a go-getter, and I take pride in my ability to adapt to new environments quickly.",Rajas,0.5719,0.227,0.0,0.773
+139,"The fear of making the wrong choice consumed me, leading to sleepless nights and constant second-guessing.",Tamas,-0.743,0.0,0.31,0.69
+140,"I've always been the one to take care of everyone else, and I don't want to be a burden.",Rajas,0.0201,0.137,0.177,0.686
+142,"Thoughts about meeting unreasonable deadlines, making mistakes, and receiving criticism consume me throughout the day.",Tamas,-0.6597,0.0,0.293,0.707
+144,I'm deeply concerned that my grief will prevent me from returning to work soon.,Tamas,-0.4767,0.067,0.196,0.736
+145,I find it challenging to let people get close to me emotionally.,Rajas,0.1531,0.127,0.0,0.873
+146,"I've noticed that when I exercise in the morning, I feel more focused throughout the day.",Sattva,0.4391,0.162,0.0,0.838
+147,"Some days I feel really motivated, and other days I just think, why bother?",Rajas,0.2247,0.186,0.136,0.678
+148,"I've been clean for six months now. It hasn't been easy, but I'm proud of myself.",Rajas,0.6482,0.29,0.082,0.628
+149,"When I get stressed, I just automatically reach for a cigarette. I don't even think about it.",Tamas,-0.3182,0.059,0.13,0.811
+150,Everything feels dull and meaningless.,Tamas,-0.6808,0.0,0.651,0.349

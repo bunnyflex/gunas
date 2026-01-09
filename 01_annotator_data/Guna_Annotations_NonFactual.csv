@@ -1,0 +1,298 @@
+Sentence_ID,Sentence_Text,Annotator,Label,Confidence
+1,"I started going for walks after dinner instead of sitting on the couch, and I actually enjoy it.",Apoorva,Sattva,Medium
+1,"I started going for walks after dinner instead of sitting on the couch, and I actually enjoy it.",Nidhi,Rajas,Medium
+1,"I started going for walks after dinner instead of sitting on the couch, and I actually enjoy it.",Sunny,Sattva,Medium
+5,"I've been taking my medication regularly now, and I can feel the difference.",Apoorva,Rajas,Medium
+5,"I've been taking my medication regularly now, and I can feel the difference.",Nidhi,Rajas,High
+5,"I've been taking my medication regularly now, and I can feel the difference.",Sunny,Rajas,Medium
+6,The main reason I want to change is for my kids. I want to be around to see them grow up.,Apoorva,Tamas,Medium
+6,The main reason I want to change is for my kids. I want to be around to see them grow up.,Nidhi,Rajas,High
+6,The main reason I want to change is for my kids. I want to be around to see them grow up.,Sunny,Tamas,High
+8,"I felt unheard and frustrated, which only worsened my physical discomfort.",Apoorva,Tamas,High
+8,"I felt unheard and frustrated, which only worsened my physical discomfort.",Nidhi,Tamas,High
+8,"I felt unheard and frustrated, which only worsened my physical discomfort.",Sunny,Tamas,High
+9,I feel stuck in this emotional turmoil and can't seem to find a way out.,Apoorva,Tamas,High
+9,I feel stuck in this emotional turmoil and can't seem to find a way out.,Nidhi,Tamas,High
+9,I feel stuck in this emotional turmoil and can't seem to find a way out.,Sunny,Tamas,Medium
+10,I would appreciate guidance on effective strategies for overcoming these obstacles and staying motivated throughout the process.,Apoorva,Rajas,High
+10,I would appreciate guidance on effective strategies for overcoming these obstacles and staying motivated throughout the process.,Nidhi,Sattva,Medium
+10,I would appreciate guidance on effective strategies for overcoming these obstacles and staying motivated throughout the process.,Sunny,Rajas,Medium
+11,"I've been tracking my food intake, and I realized I was eating way more than I thought.",Apoorva,Sattva,Medium
+11,"I've been tracking my food intake, and I realized I was eating way more than I thought.",Nidhi,Sattva,High
+11,"I've been tracking my food intake, and I realized I was eating way more than I thought.",Sunny,Tamas,High
+12,I've noticed that my cravings are strongest in the afternoon around 3 o'clock.,Apoorva,Sattva,High
+12,I've noticed that my cravings are strongest in the afternoon around 3 o'clock.,Nidhi,Tamas,Medium
+12,I've noticed that my cravings are strongest in the afternoon around 3 o'clock.,Sunny,Tamas,Medium
+13,"It's been three months now since I last used, and I've been doing pretty well.",Apoorva,Sattva,High
+13,"It's been three months now since I last used, and I've been doing pretty well.",Nidhi,Sattva,High
+13,"It's been three months now since I last used, and I've been doing pretty well.",Sunny,Rajas,Medium
+15,"I've been journaling about my triggers, and it's helping me understand my patterns.",Apoorva,Rajas,Medium
+15,"I've been journaling about my triggers, and it's helping me understand my patterns.",Nidhi,Sattva,High
+15,"I've been journaling about my triggers, and it's helping me understand my patterns.",Sunny,Rajas,Medium
+16,I want to understand why I'm feeling this way and find ways to regain control over my thoughts and emotions.,Apoorva,Sattva,Medium
+16,I want to understand why I'm feeling this way and find ways to regain control over my thoughts and emotions.,Nidhi,Sattva,Medium
+16,I want to understand why I'm feeling this way and find ways to regain control over my thoughts and emotions.,Sunny,Sattva,Medium
+18,Instant gratification seems much more appealing than focusing on long-term goals.,Apoorva,Tamas,High
+18,Instant gratification seems much more appealing than focusing on long-term goals.,Nidhi,Rajas,High
+18,Instant gratification seems much more appealing than focusing on long-term goals.,Sunny,Rajas,High
+19,I feel stuck. Like I want to move forward but something keeps holding me back.,Apoorva,Tamas,High
+19,I feel stuck. Like I want to move forward but something keeps holding me back.,Nidhi,Tamas,High
+19,I feel stuck. Like I want to move forward but something keeps holding me back.,Sunny,Tamas,Medium
+20,I would love to explore ways to overcome this barrier and build authentic connections with others.,Apoorva,Rajas,Medium
+20,I would love to explore ways to overcome this barrier and build authentic connections with others.,Nidhi,Sattva,Medium
+20,I would love to explore ways to overcome this barrier and build authentic connections with others.,Sunny,Rajas,Low
+23,"When I'm around my old friends, it's really hard not to fall back into old habits.",Apoorva,Tamas,High
+23,"When I'm around my old friends, it's really hard not to fall back into old habits.",Nidhi,Tamas,High
+23,"When I'm around my old friends, it's really hard not to fall back into old habits.",Sunny,Tamas,Medium
+27,What's the point? I've tried to quit drinking before and it never works.,Apoorva,Tamas,High
+27,What's the point? I've tried to quit drinking before and it never works.,Nidhi,Rajas,Medium
+27,What's the point? I've tried to quit drinking before and it never works.,Sunny,Tamas,Low
+28,"She kept repeating the phrase, 'You'll never amount to anything,' over and over again.",Apoorva,Tamas,High
+28,"She kept repeating the phrase, 'You'll never amount to anything,' over and over again.",Nidhi,Tamas,High
+28,"She kept repeating the phrase, 'You'll never amount to anything,' over and over again.",Sunny,Tamas,Low
+30,"I keep making excuses for why I can't exercise, but deep down I know they're just excuses.",Apoorva,Sattva,High
+30,"I keep making excuses for why I can't exercise, but deep down I know they're just excuses.",Nidhi,Sattva,High
+30,"I keep making excuses for why I can't exercise, but deep down I know they're just excuses.",Sunny,Sattva,Medium
+31,I don't really have a problem. I can stop whenever I want to.,Apoorva,Sattva,High
+31,I don't really have a problem. I can stop whenever I want to.,Nidhi,Sattva,High
+31,I don't really have a problem. I can stop whenever I want to.,Sunny,Tamas,Medium
+32,"Last week I turned down a drink at a party, and honestly, it felt good.",Apoorva,Sattva,High
+32,"Last week I turned down a drink at a party, and honestly, it felt good.",Nidhi,Rajas,Medium
+32,"Last week I turned down a drink at a party, and honestly, it felt good.",Sunny,Rajas,Medium
+33,It's frightening to experience these dark moments.,Apoorva,Tamas,High
+33,It's frightening to experience these dark moments.,Nidhi,Rajas,Low
+33,It's frightening to experience these dark moments.,Sunny,Tamas,Medium
+38,I don't really see why I need to change. Things are fine the way they are.,Apoorva,Tamas,High
+38,I don't really see why I need to change. Things are fine the way they are.,Nidhi,Sattva,High
+38,I don't really see why I need to change. Things are fine the way they are.,Sunny,Tamas,High
+40,"I'm scared that if I quit, I won't know how to handle stress anymore.",Apoorva,Tamas,High
+40,"I'm scared that if I quit, I won't know how to handle stress anymore.",Nidhi,Rajas,High
+40,"I'm scared that if I quit, I won't know how to handle stress anymore.",Sunny,Tamas,Low
+41,My friends say I'm more fun when I drink. What if they don't like the sober me?,Apoorva,Tamas,High
+41,My friends say I'm more fun when I drink. What if they don't like the sober me?,Nidhi,Tamas,Low
+41,My friends say I'm more fun when I drink. What if they don't like the sober me?,Sunny,Rajas,Medium
+43,Talking to others in the support group helped me realize I'm not alone in this.,Apoorva,Sattva,Medium
+43,Talking to others in the support group helped me realize I'm not alone in this.,Nidhi,Rajas,High
+43,Talking to others in the support group helped me realize I'm not alone in this.,Sunny,Rajas,Low
+44,I just don't know where to start.,Apoorva,Tamas,High
+44,I just don't know where to start.,Nidhi,Tamas,High
+44,I just don't know where to start.,Sunny,Tamas,Medium
+46,"I'm worried that without alcohol, I won't be able to relax or have fun.",Apoorva,Tamas,High
+46,"I'm worried that without alcohol, I won't be able to relax or have fun.",Nidhi,Tamas,High
+46,"I'm worried that without alcohol, I won't be able to relax or have fun.",Sunny,Rajas,Medium
+47,I want to understand why these attacks are happening more frequently and learn techniques to manage them effectively.,Apoorva,Sattva,High
+47,I want to understand why these attacks are happening more frequently and learn techniques to manage them effectively.,Nidhi,Sattva,High
+47,I want to understand why these attacks are happening more frequently and learn techniques to manage them effectively.,Sunny,Rajas,Medium
+49,"I've replaced my evening beer with herbal tea, and honestly, it's not as bad as I thought.",Apoorva,Sattva,High
+49,"I've replaced my evening beer with herbal tea, and honestly, it's not as bad as I thought.",Nidhi,Sattva,Medium
+49,"I've replaced my evening beer with herbal tea, and honestly, it's not as bad as I thought.",Sunny,Sattva,Medium
+50,Everyone in my family drinks. It's just what we do. I don't see it as a big deal.,Apoorva,Tamas,High
+50,Everyone in my family drinks. It's just what we do. I don't see it as a big deal.,Nidhi,Sattva,Low
+50,Everyone in my family drinks. It's just what we do. I don't see it as a big deal.,Sunny,Tamas,Medium
+52,Sometimes I think it would be easier to just give up and accept this is who I am.,Apoorva,Tamas,High
+52,Sometimes I think it would be easier to just give up and accept this is who I am.,Nidhi,Rajas,Low
+52,Sometimes I think it would be easier to just give up and accept this is who I am.,Sunny,Tamas,High
+53,"I tried going to the gym, but I felt so out of place. Everyone there is already fit.",Apoorva,Tamas,High
+53,"I tried going to the gym, but I felt so out of place. Everyone there is already fit.",Nidhi,Tamas,Low
+53,"I tried going to the gym, but I felt so out of place. Everyone there is already fit.",Sunny,Rajas,Low
+54,"Negative thoughts constantly bombard my mind, telling me I'm not good enough.",Apoorva,Tamas,Medium
+54,"Negative thoughts constantly bombard my mind, telling me I'm not good enough.",Nidhi,Tamas,High
+54,"Negative thoughts constantly bombard my mind, telling me I'm not good enough.",Sunny,Tamas,Medium
+56,"I met some new friends in my neighborhood who don't drink, and that's been really good for me.",Apoorva,Sattva,Medium
+56,"I met some new friends in my neighborhood who don't drink, and that's been really good for me.",Nidhi,Sattva,High
+56,"I met some new friends in my neighborhood who don't drink, and that's been really good for me.",Sunny,Sattva,Low
+57,"Thoughts of doubt and low self-worth start to consume me, making it difficult to break free.",Apoorva,Rajas,Low
+57,"Thoughts of doubt and low self-worth start to consume me, making it difficult to break free.",Nidhi,Tamas,High
+57,"Thoughts of doubt and low self-worth start to consume me, making it difficult to break free.",Sunny,Tamas,High
+58,The constant battles with the insurance company have left me feeling helpless and drained.,Apoorva,Tamas,High
+58,The constant battles with the insurance company have left me feeling helpless and drained.,Nidhi,Tamas,High
+58,The constant battles with the insurance company have left me feeling helpless and drained.,Sunny,Tamas,High
+59,"My doctor told me my blood pressure is too high, and that was a wake-up call.",Apoorva,Tamas,High
+59,"My doctor told me my blood pressure is too high, and that was a wake-up call.",Nidhi,Rajas,High
+59,"My doctor told me my blood pressure is too high, and that was a wake-up call.",Sunny,Rajas,Medium
+60,I'm desperate to break free from this heaviness and rediscover joy in my life.,Apoorva,Tamas,High
+60,I'm desperate to break free from this heaviness and rediscover joy in my life.,Nidhi,Sattva,Medium
+60,I'm desperate to break free from this heaviness and rediscover joy in my life.,Sunny,Rajas,Medium
+61,"I've been using the breathing exercises you taught me, and it helps me get through the stressful moments.",Apoorva,Sattva,Medium
+61,"I've been using the breathing exercises you taught me, and it helps me get through the stressful moments.",Nidhi,Sattva,Medium
+61,"I've been using the breathing exercises you taught me, and it helps me get through the stressful moments.",Sunny,Sattva,High
+62,I'd like to work on addressing this pattern and learning to face challenges head-on.,Apoorva,Sattva,Medium
+62,I'd like to work on addressing this pattern and learning to face challenges head-on.,Nidhi,Sattva,High
+62,I'd like to work on addressing this pattern and learning to face challenges head-on.,Sunny,Sattva,High
+63,I often wonder what the point of it all is.,Apoorva,Tamas,High
+63,I often wonder what the point of it all is.,Nidhi,Rajas,Medium
+63,I often wonder what the point of it all is.,Sunny,Tamas,Low
+65,"Stress seems to consume me, and I struggle to relax or enjoy activities I used to love.",Apoorva,Tamas,High
+65,"Stress seems to consume me, and I struggle to relax or enjoy activities I used to love.",Nidhi,Tamas,High
+65,"Stress seems to consume me, and I struggle to relax or enjoy activities I used to love.",Sunny,Tamas,Medium
+67,"Part of me wants to change, but another part of me is terrified of what that means.",Apoorva,Tamas,High
+67,"Part of me wants to change, but another part of me is terrified of what that means.",Nidhi,Rajas,High
+67,"Part of me wants to change, but another part of me is terrified of what that means.",Sunny,Rajas,Medium
+68,"I've set a goal to walk 10,000 steps a day, and I've hit it every day this week.",Apoorva,Rajas,High
+68,"I've set a goal to walk 10,000 steps a day, and I've hit it every day this week.",Nidhi,Sattva,High
+68,"I've set a goal to walk 10,000 steps a day, and I've hit it every day this week.",Sunny,Rajas,Medium
+70,I realized that drinking was my way of avoiding dealing with my problems.,Apoorva,Rajas,Medium
+70,I realized that drinking was my way of avoiding dealing with my problems.,Nidhi,Tamas,High
+70,I realized that drinking was my way of avoiding dealing with my problems.,Sunny,Sattva,Medium
+71,It's isolating and frustrating to experience these emotions daily.,Apoorva,Tamas,High
+71,It's isolating and frustrating to experience these emotions daily.,Nidhi,Tamas,High
+71,It's isolating and frustrating to experience these emotions daily.,Sunny,Tamas,Medium
+73,"I've been having intrusive thoughts about my past, and I can't seem to shake them off.",Apoorva,Tamas,High
+73,"I've been having intrusive thoughts about my past, and I can't seem to shake them off.",Nidhi,Tamas,High
+73,"I've been having intrusive thoughts about my past, and I can't seem to shake them off.",Sunny,Tamas,High
+74,"Even mundane tasks become overwhelming, and it feels as though a heavy cloud is constantly hanging over me.",Apoorva,Tamas,High
+74,"Even mundane tasks become overwhelming, and it feels as though a heavy cloud is constantly hanging over me.",Nidhi,Tamas,High
+74,"Even mundane tasks become overwhelming, and it feels as though a heavy cloud is constantly hanging over me.",Sunny,Tamas,High
+75,"Each day feels like a struggle to get out of bed, and I constantly question my worth and purpose in life.",Apoorva,Tamas,High
+75,"Each day feels like a struggle to get out of bed, and I constantly question my worth and purpose in life.",Nidhi,Tamas,High
+75,"Each day feels like a struggle to get out of bed, and I constantly question my worth and purpose in life.",Sunny,Tamas,High
+78,I want to find healing from this trauma and reclaim control over my life.,Apoorva,Sattva,Low
+78,I want to find healing from this trauma and reclaim control over my life.,Nidhi,Sattva,High
+78,I want to find healing from this trauma and reclaim control over my life.,Sunny,Rajas,Low
+80,I don't want to be one of those people who needs a drink to get through the day.,Apoorva,Sattva,Low
+80,I don't want to be one of those people who needs a drink to get through the day.,Nidhi,Sattva,High
+80,I don't want to be one of those people who needs a drink to get through the day.,Sunny,Sattva,High
+85,"I've started cooking at home instead of getting takeout, and it's been nice.",Apoorva,Sattva,Medium
+85,"I've started cooking at home instead of getting takeout, and it's been nice.",Nidhi,Sattva,High
+85,"I've started cooking at home instead of getting takeout, and it's been nice.",Sunny,Sattva,High
+86,"I want to believe I can change, but I've failed so many times before.",Apoorva,Sattva,Low
+86,"I want to believe I can change, but I've failed so many times before.",Nidhi,Rajas,High
+86,"I want to believe I can change, but I've failed so many times before.",Sunny,Rajas,Medium
+88,"I constantly feel overwhelmed, exhausted, and on edge.",Apoorva,Tamas,High
+88,"I constantly feel overwhelmed, exhausted, and on edge.",Nidhi,Tamas,High
+88,"I constantly feel overwhelmed, exhausted, and on edge.",Sunny,Tamas,High
+89,"Quitting smoking is the hardest thing I've ever done, but I'm still trying.",Apoorva,Sattva,High
+89,"Quitting smoking is the hardest thing I've ever done, but I'm still trying.",Nidhi,Rajas,High
+89,"Quitting smoking is the hardest thing I've ever done, but I'm still trying.",Sunny,Rajas,Low
+92,I've been putting off making changes because I keep waiting for the perfect time.,Apoorva,Tamas,High
+92,I've been putting off making changes because I keep waiting for the perfect time.,Nidhi,Tamas,High
+92,I've been putting off making changes because I keep waiting for the perfect time.,Sunny,Rajas,Medium
+93,"I've been feeling increasingly isolated, and I can't seem to connect with my colleagues or build meaningful relationships.",Apoorva,Tamas,High
+93,"I've been feeling increasingly isolated, and I can't seem to connect with my colleagues or build meaningful relationships.",Nidhi,Tamas,High
+93,"I've been feeling increasingly isolated, and I can't seem to connect with my colleagues or build meaningful relationships.",Sunny,Tamas,High
+94,"I've started meditating for ten minutes every morning, and it's made a difference.",Apoorva,Sattva,High
+94,"I've started meditating for ten minutes every morning, and it's made a difference.",Nidhi,Sattva,Medium
+94,"I've started meditating for ten minutes every morning, and it's made a difference.",Sunny,Sattva,High
+95,How can I break this cycle and promote reconciliation among family members?,Apoorva,Sattva,Low
+95,How can I break this cycle and promote reconciliation among family members?,Nidhi,Rajas,High
+95,How can I break this cycle and promote reconciliation among family members?,Sunny,Sattva,High
+96,I don't know if I have what it takes to actually make this change.,Apoorva,Tamas,Medium
+96,I don't know if I have what it takes to actually make this change.,Nidhi,Rajas,Medium
+96,I don't know if I have what it takes to actually make this change.,Sunny,Tamas,Medium
+97,"I've been sober for two weeks, and I'm sleeping better than I have in years.",Apoorva,Sattva,Medium
+97,"I've been sober for two weeks, and I'm sleeping better than I have in years.",Nidhi,Rajas,High
+97,"I've been sober for two weeks, and I'm sleeping better than I have in years.",Sunny,Sattva,Medium
+98,I constantly worry about the future and catastrophize every situation.,Apoorva,Rajas,Medium
+98,I constantly worry about the future and catastrophize every situation.,Nidhi,Tamas,High
+98,I constantly worry about the future and catastrophize every situation.,Sunny,Tamas,Medium
+100,I plan to focus on the present moment and practice mindfulness techniques to help me stay grounded and focused.,Apoorva,Sattva,High
+100,I plan to focus on the present moment and practice mindfulness techniques to help me stay grounded and focused.,Nidhi,Rajas,High
+100,I plan to focus on the present moment and practice mindfulness techniques to help me stay grounded and focused.,Sunny,Sattva,High
+102,"My thoughts often turn negative, and it's hard to find motivation or energy to do anything.",Apoorva,Tamas,High
+102,"My thoughts often turn negative, and it's hard to find motivation or energy to do anything.",Nidhi,Rajas,Low
+102,"My thoughts often turn negative, and it's hard to find motivation or energy to do anything.",Sunny,Tamas,High
+103,"I know all the reasons why I should change, but knowing isn't the same as doing.",Apoorva,Tamas,Medium
+103,"I know all the reasons why I should change, but knowing isn't the same as doing.",Nidhi,Tamas,High
+103,"I know all the reasons why I should change, but knowing isn't the same as doing.",Sunny,Tamas,Low
+104,"My wife keeps nagging me about my drinking, but she doesn't understand how hard my job is.",Apoorva,Tamas,High
+104,"My wife keeps nagging me about my drinking, but she doesn't understand how hard my job is.",Nidhi,Rajas,High
+104,"My wife keeps nagging me about my drinking, but she doesn't understand how hard my job is.",Sunny,Tamas,Medium
+105,"I finally told my family about my struggles, and their support means everything.",Apoorva,Sattva,Medium
+105,"I finally told my family about my struggles, and their support means everything.",Nidhi,Rajas,Medium
+105,"I finally told my family about my struggles, and their support means everything.",Sunny,Rajas,Low
+106,"I want to lose weight, but I just can't seem to stick to any diet.",Apoorva,Tamas,High
+106,"I want to lose weight, but I just can't seem to stick to any diet.",Nidhi,Rajas,Medium
+106,"I want to lose weight, but I just can't seem to stick to any diet.",Sunny,Rajas,Medium
+108,"I don't know if I have the energy to put into making friends, especially when I've failed at it so many times before.",Apoorva,Tamas,High
+108,"I don't know if I have the energy to put into making friends, especially when I've failed at it so many times before.",Nidhi,Tamas,High
+108,"I don't know if I have the energy to put into making friends, especially when I've failed at it so many times before.",Sunny,Tamas,Medium
+109,The hardest part is the evenings when I'm alone and bored.,Apoorva,Tamas,Medium
+109,The hardest part is the evenings when I'm alone and bored.,Nidhi,Tamas,High
+109,The hardest part is the evenings when I'm alone and bored.,Sunny,Tamas,Medium
+110,"I aspire to make our manual approachable, fostering a sense of comfort and ease.",Apoorva,Sattva,Medium
+110,"I aspire to make our manual approachable, fostering a sense of comfort and ease.",Nidhi,Sattva,High
+110,"I aspire to make our manual approachable, fostering a sense of comfort and ease.",Sunny,Sattva,Low
+112,I don't want to get stuck in a routine where I'm only focused on caregiving and neglecting my own needs.,Apoorva,Tamas,High
+112,I don't want to get stuck in a routine where I'm only focused on caregiving and neglecting my own needs.,Nidhi,Sattva,High
+112,I don't want to get stuck in a routine where I'm only focused on caregiving and neglecting my own needs.,Sunny,Sattva,High
+113,The effort required to fix these issues feels insurmountable.,Apoorva,Tamas,High
+113,The effort required to fix these issues feels insurmountable.,Nidhi,Tamas,High
+113,The effort required to fix these issues feels insurmountable.,Sunny,Tamas,Medium
+114,"I can't seem to find any meaning or motivation in my routine, and it's leaving me feeling lost and disconnected.",Apoorva,Tamas,High
+114,"I can't seem to find any meaning or motivation in my routine, and it's leaving me feeling lost and disconnected.",Nidhi,Tamas,High
+114,"I can't seem to find any meaning or motivation in my routine, and it's leaving me feeling lost and disconnected.",Sunny,Tamas,High
+115,I can't help but feel like I'm failing as a wife and mother when I can't provide him with a home-cooked meal.,Apoorva,Tamas,High
+115,I can't help but feel like I'm failing as a wife and mother when I can't provide him with a home-cooked meal.,Nidhi,Tamas,High
+115,I can't help but feel like I'm failing as a wife and mother when I can't provide him with a home-cooked meal.,Sunny,Tamas,High
+116,"Deep down, I feel absolutely empty. It's as if all emotions have been drained from me, leaving behind an overwhelming sense of nothingness.",Apoorva,Tamas,High
+116,"Deep down, I feel absolutely empty. It's as if all emotions have been drained from me, leaving behind an overwhelming sense of nothingness.",Nidhi,Tamas,High
+116,"Deep down, I feel absolutely empty. It's as if all emotions have been drained from me, leaving behind an overwhelming sense of nothingness.",Sunny,Tamas,High
+119,Even getting out of bed requires an immense effort.,Apoorva,Tamas,High
+119,Even getting out of bed requires an immense effort.,Nidhi,Tamas,High
+119,Even getting out of bed requires an immense effort.,Sunny,Tamas,High
+120,I can't help but worry about my partner and how they're doing.,Apoorva,Tamas,Low
+120,I can't help but worry about my partner and how they're doing.,Nidhi,Rajas,Medium
+120,I can't help but worry about my partner and how they're doing.,Sunny,Rajas,High
+122,I'm struggling to move on. It's been hard for me to let go of the relationship and accept that it's over.,Apoorva,Tamas,High
+122,I'm struggling to move on. It's been hard for me to let go of the relationship and accept that it's over.,Nidhi,Tamas,High
+122,I'm struggling to move on. It's been hard for me to let go of the relationship and accept that it's over.,Sunny,Tamas,High
+123,"I constantly feel tired and drained, both physically and emotionally.",Apoorva,Tamas,High
+123,"I constantly feel tired and drained, both physically and emotionally.",Nidhi,Tamas,High
+123,"I constantly feel tired and drained, both physically and emotionally.",Sunny,Tamas,High
+124,"I slipped up last weekend, but instead of giving up, I got back on track Monday.",Apoorva,Rajas,Low
+124,"I slipped up last weekend, but instead of giving up, I got back on track Monday.",Nidhi,Rajas,High
+124,"I slipped up last weekend, but instead of giving up, I got back on track Monday.",Sunny,Sattva,Medium
+125,I hope to achieve a sense of calmness and control through this counseling session.,Apoorva,Sattva,Medium
+125,I hope to achieve a sense of calmness and control through this counseling session.,Nidhi,Rajas,High
+125,I hope to achieve a sense of calmness and control through this counseling session.,Sunny,Rajas,Medium
+127,I'm taking it one day at a time. That's all I can do.,Apoorva,Sattva,Medium
+127,I'm taking it one day at a time. That's all I can do.,Nidhi,Sattva,High
+127,I'm taking it one day at a time. That's all I can do.,Sunny,Sattva,Medium
+128,"I know I should quit smoking, but honestly, I'm not sure I really want to.",Apoorva,Tamas,High
+128,"I know I should quit smoking, but honestly, I'm not sure I really want to.",Nidhi,Rajas,Low
+128,"I know I should quit smoking, but honestly, I'm not sure I really want to.",Sunny,Tamas,High
+129,I don't think I'm ready to quit completely. Maybe I can just cut back.,Apoorva,Tamas,Medium
+129,I don't think I'm ready to quit completely. Maybe I can just cut back.,Nidhi,Rajas,Low
+129,I don't think I'm ready to quit completely. Maybe I can just cut back.,Sunny,Tamas,High
+133,I hope to gain a better understanding of why intimacy feels so scary for me and learn ways to overcome this fear.,Apoorva,Sattva,High
+133,I hope to gain a better understanding of why intimacy feels so scary for me and learn ways to overcome this fear.,Nidhi,Sattva,High
+133,I hope to gain a better understanding of why intimacy feels so scary for me and learn ways to overcome this fear.,Sunny,Sattva,Low
+136,"I've cut down from a pack a day to just five cigarettes. That's progress, right?",Apoorva,Rajas,High
+136,"I've cut down from a pack a day to just five cigarettes. That's progress, right?",Nidhi,Rajas,High
+136,"I've cut down from a pack a day to just five cigarettes. That's progress, right?",Sunny,Rajas,Medium
+137,I feel like I'm losing control.,Apoorva,Rajas,High
+137,I feel like I'm losing control.,Nidhi,Tamas,High
+137,I feel like I'm losing control.,Sunny,Tamas,High
+138,"I've always been a go-getter, and I take pride in my ability to adapt to new environments quickly.",Apoorva,Rajas,High
+138,"I've always been a go-getter, and I take pride in my ability to adapt to new environments quickly.",Nidhi,Rajas,High
+138,"I've always been a go-getter, and I take pride in my ability to adapt to new environments quickly.",Sunny,Rajas,High
+139,"The fear of making the wrong choice consumed me, leading to sleepless nights and constant second-guessing.",Apoorva,Tamas,High
+139,"The fear of making the wrong choice consumed me, leading to sleepless nights and constant second-guessing.",Nidhi,Tamas,Low
+139,"The fear of making the wrong choice consumed me, leading to sleepless nights and constant second-guessing.",Sunny,Tamas,High
+140,"I've always been the one to take care of everyone else, and I don't want to be a burden.",Apoorva,Rajas,High
+140,"I've always been the one to take care of everyone else, and I don't want to be a burden.",Nidhi,Rajas,High
+140,"I've always been the one to take care of everyone else, and I don't want to be a burden.",Sunny,Rajas,Medium
+142,"Thoughts about meeting unreasonable deadlines, making mistakes, and receiving criticism consume me throughout the day.",Apoorva,Tamas,High
+142,"Thoughts about meeting unreasonable deadlines, making mistakes, and receiving criticism consume me throughout the day.",Nidhi,Tamas,High
+142,"Thoughts about meeting unreasonable deadlines, making mistakes, and receiving criticism consume me throughout the day.",Sunny,Tamas,High
+144,I'm deeply concerned that my grief will prevent me from returning to work soon.,Apoorva,Tamas,High
+144,I'm deeply concerned that my grief will prevent me from returning to work soon.,Nidhi,Tamas,High
+144,I'm deeply concerned that my grief will prevent me from returning to work soon.,Sunny,Tamas,High
+145,I find it challenging to let people get close to me emotionally.,Apoorva,Rajas,High
+145,I find it challenging to let people get close to me emotionally.,Nidhi,Tamas,Low
+145,I find it challenging to let people get close to me emotionally.,Sunny,Sattva,Medium
+146,"I've noticed that when I exercise in the morning, I feel more focused throughout the day.",Apoorva,Sattva,High
+146,"I've noticed that when I exercise in the morning, I feel more focused throughout the day.",Nidhi,Sattva,High
+146,"I've noticed that when I exercise in the morning, I feel more focused throughout the day.",Sunny,Sattva,Medium
+147,"Some days I feel really motivated, and other days I just think, why bother?",Apoorva,Rajas,High
+147,"Some days I feel really motivated, and other days I just think, why bother?",Nidhi,Rajas,High
+147,"Some days I feel really motivated, and other days I just think, why bother?",Sunny,Rajas,High
+148,"I've been clean for six months now. It hasn't been easy, but I'm proud of myself.",Apoorva,Sattva,Low
+148,"I've been clean for six months now. It hasn't been easy, but I'm proud of myself.",Nidhi,Rajas,High
+148,"I've been clean for six months now. It hasn't been easy, but I'm proud of myself.",Sunny,Rajas,High
+149,"When I get stressed, I just automatically reach for a cigarette. I don't even think about it.",Apoorva,Tamas,High
+149,"When I get stressed, I just automatically reach for a cigarette. I don't even think about it.",Nidhi,Tamas,High
+149,"When I get stressed, I just automatically reach for a cigarette. I don't even think about it.",Sunny,Tamas,High
+150,Everything feels dull and meaningless.,Apoorva,Tamas,High
+150,Everything feels dull and meaningless.,Nidhi,Tamas,High
+150,Everything feels dull and meaningless.,Sunny,Tamas,High

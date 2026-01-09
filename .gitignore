@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Downloaded lexicon (large)
+NRC-VAD-Lexicon-v2.1/
