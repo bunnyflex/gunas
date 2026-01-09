@@ -1,0 +1,46 @@
+============================================================
+GPT-4 ZERO-SHOT CLASSIFICATION
+============================================================
+
+CONFIGURATION
+------------------------------------------------------------
+Model: gpt-4
+Temperature: 0
+Method: Zero-shot with Guna definitions in prompt
+
+RESULTS
+------------------------------------------------------------
+Macro F1:    0.7027
+Weighted F1: 0.7561
+
+PER-CLASS F1
+------------------------------------------------------------
+  Tamas (0): 0.9020
+  Rajas (1): 0.5532
+  Sattva (2): 0.6531
+
+CONFUSION MATRIX
+------------------------------------------------------------
+              Pred_T  Pred_R  Pred_S
+  Actual_T      46       4       1
+  Actual_R       3      13       9
+  Actual_S       2       5      16
+
+CLASSIFICATION REPORT
+------------------------------------------------------------
+              precision    recall  f1-score   support
+
+       Tamas       0.90      0.90      0.90        51
+       Rajas       0.59      0.52      0.55        25
+      Sattva       0.62      0.70      0.65        23
+
+    accuracy                           0.76        99
+   macro avg       0.70      0.71      0.70        99
+weighted avg       0.76      0.76      0.76        99
+
+============================================================
+COMPARISON WITH OTHER MODELS
+============================================================
+Baseline (TF-IDF + LogReg): Macro F1 = 0.3500
+GPT-4 Zero-Shot:            Macro F1 = 0.7027
+Difference vs Baseline:     +0.3527

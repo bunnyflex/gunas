@@ -17,3 +17,4 @@ __pycache__/
 
 # Downloaded lexicon (large)
 NRC-VAD-Lexicon-v2.1/
+.env
